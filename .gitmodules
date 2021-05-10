@@ -1,0 +1,84 @@
+[submodule "SimulinkUtilities"]
+	path = SimulinkUtilities
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/SimulinkUtilities.git
+	branch = develop
+[submodule "SimCore"]
+	path = SimCore
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/SimCore.git
+	branch = develop
+[submodule "PANGU"]
+	path = PANGU
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/PANGU.git
+	branch = develop
+[submodule "NS4FlightResources"]
+	path = NS4FlightResources
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/NS4FlightResources.git
+	branch = develop
+[submodule "Navigation"]
+	path = Navigation
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/Navigation.git
+	branch = develop
+[submodule "MLVehicleProperties"]
+	path = MLVehicleProperties
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/MLVehicleProperties.git
+	branch = develop
+[submodule "MLFlightSciencesCore"]
+	path = MLFlightSciencesCore
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/MLFlightSciencesCore.git
+	branch = develop
+[submodule "MLFlightInterfaces"]
+	path = MLFlightInterfaces
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/MLFlightInterfaces.git
+	branch = develop
+[submodule "MLCommonFlight"]
+	path = MLCommonFlight
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/MLCommonFlight.git
+	branch = develop
+[submodule "MHFlightManager"]
+	path = MHFlightManager
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/MHFlightManager.git
+	branch = develop
+[submodule "MCFlightManager"]
+	path = MCFlightManager
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/MCFlightManager.git
+	branch = develop
+[submodule "MatlabUtilities"]
+	path = MatlabUtilities
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/MatlabUtilities.git
+	branch = develop
+[submodule "BMModels"]
+	path = BMModels
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/BMModels.git
+	branch = develop
+[submodule "BlueMoonIntegratedSim"]
+	path = BlueMoonIntegratedSim
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/BlueMoonIntegratedSim.git
+	branch = develop
+[submodule "SPICE"]
+	path = SPICE
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/SPICE.git
+	branch = develop
+[submodule "CodeStandards"]
+	path = CodeStandards
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/CodeStandards.git
+	branch = feature/BlueMoon_SIL
+[submodule "BaseUnitsSI"]
+	path = BaseUnits
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/BaseUnitsSI.git
+	branch = develop
+[submodule "UnitTestCore"]
+	path = UnitTestCore
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/UnitTestCore.git
+	branch = develop
+[submodule "ProjectCore"]
+	path = ProjectCore
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/ProjectCore.git
+	branch = develop
+[submodule "AerospaceSim"]
+	path = AerospaceSim
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/AerospaceSim.git
+	branch = develop
+[submodule "AerospaceFlight"]
+	path = AerospaceFlight
+	url = https://gitlab.blueorigin.com/moon-lander-matlab-simulation-projects/base-projects/AerospaceFlight.git
+	branch = develop
